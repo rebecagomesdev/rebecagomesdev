@@ -2,7 +2,8 @@
 
 **`Mestranda em Bioinformática (USP) | Data Science, Technology & Health`**
 
-Oi! Sou a Rebeca, tenho 24 anos e sou mestranda no IME-USP, em São Paulo, orientada pelo Prof. Dr. André Fujita. Sou graduada em Biomedicina pela UFPA, com habilitação em bioinformática e imaginologia, e fiz iniciação científica (bolsista PIBIC) no Laboratório de Neuroplasticidade da UFPA entre 2022 e 2025, onde coautorei revisões sistemáticas e meta-análises publicadas na PLOS One e na Neural Plasticity. No mestrado, trabalho com dados psicofisiológicos multimodais para estudar a influência de diferentes padrões respiratórios na fisiologia, no estado afetivo e na cognição humana.
+Oi! Sou a Rebeca, tenho 24 anos e sou mestranda no IME-USP, em São Paulo, orientada pelo Prof. Dr. André Fujita. Sou graduada em Biomedicina pela UFPA, com habilitação em bioinformática e imaginologia, e fiz iniciação científica (bolsista PIBIC) no Laboratório de Neuroplasticidade da UFPA entre 2022 e 2025, onde coautorei revisões sistemáticas e meta-análises publicadas na PLOS One e na Neural Plasticity. No mestrado, trabalho com dados psicofisiológicos multimodais para estudar a influência de diferentes padrões respiratórios na fisiologia, no estado afetivo e na cognição humana, em uma abordagem computacional que envolve o desenvolvimento das tarefas experimentais em Python, as análises estatísticas e a visualização dos dados em R, e a aplicação de Processamento de Linguagem Natural (PLN).
+
 <p align="left">
     <a href="https://www.linkedin.com/in/rebecagoms/">
         <img 
