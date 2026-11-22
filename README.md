@@ -2,7 +2,18 @@
 
 **`Mestranda em Bioinformática (USP) | Data Science, Technology & Health`**
 
-Oi! Sou a Rebeca, tenho 24 anos e sou mestranda no IME-USP, em São Paulo, orientada pelo Prof. Dr. André Fujita. Sou graduada em Biomedicina pela UFPA, com habilitação em bioinformática e imaginologia, e fiz iniciação científica (bolsista PIBIC) no Laboratório de Neuroplasticidade da UFPA entre 2022 e 2025, onde coautorei revisões sistemáticas e meta-análises publicadas na PLOS One e na Neural Plasticity. No mestrado, trabalho com dados psicofisiológicos multimodais para estudar a influência de diferentes padrões respiratórios na fisiologia, no estado afetivo e na cognição humana, em uma abordagem computacional que envolve o desenvolvimento das tarefas experimentais em Python, as análises estatísticas e a visualização dos dados em R, e a aplicação de Processamento de Linguagem Natural (PLN).
+Oi! Sou a Rebeca, mestranda pelo IME da Universidade de São Paulo (USP) e biomédica pela Universidade Federal do Pará (UFPA), com habilitação em bioinformática e imaginologia.
+
+Durante a graduação, fiz iniciação científica (bolsista PIBIC) no Laboratório de Neuroplasticidade da UFPA, onde coautorei revisões sistemáticas e meta-análises publicadas na PLOS One e na Neural Plasticity.
+
+Atualmente, no mestrado, trabalho com dados psicofisiológicos multimodais para estudar a influência de diferentes padrões respiratórios na fisiologia, no estado afetivo e na cognição humana, em uma abordagem computacional que envolve o desenvolvimento das tarefas experimentais em Python, as análises estatísticas e a visualização dos dados em R, e a aplicação de Processamento de Linguagem Natural (PLN).
+
+### 🎯 Áreas de interesse
+- Data Science & Analytics
+- Statistical Modeling & Machine Learning
+- Biomedical Data Analysis
+- Health Data Science & Digital Health
+- Physiological Signal Processing
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rebecagoms/">
@@ -62,18 +73,4 @@ Oi! Sou a Rebeca, tenho 24 anos e sou mestranda no IME-USP, em São Paulo, orien
 <img align="left" alt="Bash" title="Bash" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 -->
 
-<br/>
-<br/>
 
-### 📊 Estatísticas
-
-<p>
-  
-<img 
-      align="left" 
-      alt="Linguagens mais usadas" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecagomesdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
