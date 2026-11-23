@@ -10,24 +10,13 @@ Atualmente, no mestrado, trabalho com dados psicofisiológicos multimodais para 
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rebecagoms/">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
+        <img alt="LinkedIn" title="Meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://github.com/rebecagomesdev?tab=repositories">
-        <img 
-            alt="Projetos no GitHub" 
-            title="Repositórios públicos" 
-            src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frebecagomesdev&query=%24.public_repos&label=Projetos&style=for-the-badge&logo=github&logoColor=white&color=488207"
-        />
+        <img alt="Projetos no GitHub" title="Repositórios públicos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frebecagomesdev&query=%24.public_repos&label=Projetos&style=for-the-badge&logo=github&logoColor=white&color=488207"/>
     </a>
-        <a href="mailto:rebecadcgomes@gmail.com">
-        <img alt="Gmail" title="Email pessoal" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="mailto:rebecagomes@usp.br">
-        <img alt="Email USP" title="Email institucional" src="https://img.shields.io/badge/Email%20USP-1094AB?style=for-the-badge&logo=maildotru&logoColor=white"/>
+    <a href="https://mail.google.com/mail/?view=cm&to=rebecadcgomes@gmail.com">
+        <img alt="Gmail" title="Enviar email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </p>
 
@@ -40,44 +29,22 @@ Atualmente, no mestrado, trabalho com dados psicofisiológicos multimodais para 
 - Health Data Science & Digital Health
 - Physiological Signal Processing
 
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="R" 
-    title="R"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
+<p>
+  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="R" title="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img alt="Jupyter" title="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+  <img alt="LaTeX" title="LaTeX" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+</p>
 
-<img align="left" alt="Jupyter" title="Jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="LaTeX" title="LaTeX" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+---
 
+### 📫 Contatos
+
+📧 rebecadcgomes@gmail.com  
+🎓 rebecagomes@usp.br
