@@ -8,13 +8,6 @@ Durante a graduação, fiz iniciação científica (bolsista PIBIC) no Laborató
 
 Atualmente, no mestrado, trabalho com dados psicofisiológicos multimodais para estudar a influência de diferentes padrões respiratórios na fisiologia, no estado afetivo e na cognição humana, em uma abordagem computacional que envolve o desenvolvimento das tarefas experimentais em Python, as análises estatísticas e a visualização dos dados em R, e a aplicação de Processamento de Linguagem Natural (PLN).
 
-### 🎯 Áreas de interesse
-- Data Science & Analytics
-- Statistical Modeling & Machine Learning
-- Biomedical Data Analysis
-- Health Data Science & Digital Health
-- Physiological Signal Processing
-
 <p align="left">
     <a href="https://www.linkedin.com/in/rebecagoms/">
         <img 
@@ -30,6 +23,23 @@ Atualmente, no mestrado, trabalho com dados psicofisiológicos multimodais para 
             src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frebecagomesdev&query=%24.public_repos&label=Projetos&style=for-the-badge&logo=github&logoColor=white&color=488207"
         />
     </a>
+        <a href="mailto:rebecadcgomes@gmail.com">
+        <img alt="Gmail" title="Email pessoal" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="mailto:rebecagomes@usp.br">
+        <img alt="Email USP" title="Email institucional" src="https://img.shields.io/badge/Email%20USP-1094AB?style=for-the-badge&logo=maildotru&logoColor=white"/>
+    </a>
+</p>
+
+---
+
+### 🎯 Áreas de interesse
+- Data Science & Analytics
+- Statistical Modeling & Machine Learning
+- Biomedical Data Analysis
+- Health Data Science & Digital Health
+- Physiological Signal Processing
+
 
 ---
 
@@ -67,10 +77,7 @@ Atualmente, no mestrado, trabalho com dados psicofisiológicos multimodais para 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
-<!-- Acrescente o que mais você usa:
+
 <img align="left" alt="Jupyter" title="Jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="LaTeX" title="LaTeX" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
-<img align="left" alt="Bash" title="Bash" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
--->
-
 
